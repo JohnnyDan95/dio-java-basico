@@ -1,10 +1,10 @@
-### Aqui é udam!
+# Aqui é udam!
 
 
-## Java Básico - Anatomida de Classes - 6 - Java Beans (escrita)
+# Java Básico - Anatomida de Classes - 6 - Java Beans (escrita)
 
 
-# Variáveis
+## Variáveis
 
 - Uma variável deve ser clara, sem abreviações;
 - Uma variável é sempre no sigular, exceto ARRAY ou COLEÇÃO;
@@ -17,7 +17,7 @@ String email = "aluno@escola.com";
 String [] emails = {"aluno@escola.com","professor@escola.com}; //isto é um ARRAY
 String meuNome = "Joseph"
 
-# Métodos
+## Métodos
 
 - Devem ser verbos;
 - Escrita como: "terminarTrajeto(){};
