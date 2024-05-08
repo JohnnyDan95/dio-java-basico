@@ -1,18 +1,23 @@
-## Getting Started
+### Aqui é udam!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## Java Básico - Anatomida de Classes - 6 - Java Beans (escrita)
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Variáveis
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Uma variável deve ser clara, sem abreviações;
+- Uma variável é sempre no sigular, exceto ARRAY ou COLEÇÃO;
+- Defina um idioma único para suas variáveis.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Exemplos corretos:
 
-## Dependency Management
+double salarioMedio = 1500.23;
+String email = "aluno@escola.com";
+String [] emails = {"aluno@escola.com","professor@escola.com}; //isto é um ARRAY
+String meuNome = "Joseph"
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# Métodos
+
+- Devem ser verbos;
+- Escrita como: "terminarTrajeto(){};
